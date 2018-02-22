@@ -1,0 +1,127 @@
+LINEAR SVC KNN
+
+runfile('C:/Users/dutta/Desktop/Project/testing.py', wdir='C:/Users/dutta/Desktop/Project')
+neighbors3
+Cubism Count= 56
+Impressionism Count= 59
+Pop Art Count= 45
+Realism Count= 27
+187
+
+runfile('C:/Users/dutta/Desktop/Project/testing.py', wdir='C:/Users/dutta/Desktop/Project')
+neighbors1
+Cubism Count= 54
+Impressionism Count= 63
+Pop Art Count= 47
+Realism Count= 35
+199
+
+runfile('C:/Users/dutta/Desktop/Project/testing.py', wdir='C:/Users/dutta/Desktop/Project')
+neighbors10
+Cubism Count= 53
+Impressionism Count= 72
+Pop Art Count= 46
+Realism Count= 36
+207
+
+runfile('C:/Users/dutta/Desktop/Project/testing.py', wdir='C:/Users/dutta/Desktop/Project')
+neighbors25
+Cubism Count= 47
+Impressionism Count= 70
+Pop Art Count= 43
+Realism Count= 40
+200
+
+runfile('C:/Users/dutta/Desktop/Project/testing.py', wdir='C:/Users/dutta/Desktop/Project')
+neighbors50
+Cubism Count= 44
+Impressionism Count= 74
+Pop Art Count= 42
+Realism Count= 35
+195
+
+------------------------------------------------------------------------------------------------------------
+LBP Linear SVC
+
+c100 randomstate=1
+Cubism Count= 62
+Impressionism Count= 82
+Pop Art Count= 62
+Realism Count= 31
+237
+
+C=150,random_state=1
+Cubism Count= 67
+Impressionism Count= 79
+Pop Art Count= 64
+Realism Count= 29
+239
+
+c1 randomstate=1
+Cubism Count= 32
+Impressionism Count= 72
+Pop Art Count= 38
+Realism Count= 28
+170
+
+C=0.1,random_state=1
+Cubism Count= 27
+Impressionism Count= 82
+Pop Art Count= 33
+Realism Count= 12
+154
+
+C=5,random_state=1
+Cubism Count= 44
+Impressionism Count= 73
+Pop Art Count= 48
+Realism Count= 31
+196
+
+C=10,random_state=1
+Cubism Count= 48
+Impressionism Count= 73
+Pop Art Count= 53
+Realism Count= 35
+209
+
+C=50,random_state=1
+Cubism Count= 58
+Impressionism Count= 77
+Pop Art Count= 62
+Realism Count= 38
+235
+
+C=200,random_state=1
+Cubism Count= 72
+Impressionism Count= 90
+Pop Art Count= 46
+Realism Count= 10
+218
+
+---------------------------------------------------------------------------------------------------
+BOTH LBP CSD
+Linear SVC
+
+C=100,random_state=100
+Cubism Count= 72
+Impressionism Count= 34
+Pop Art Count= 26
+Realism Count= 20
+152
+
+C=50,random_state=50
+Cubism Count= 19
+Impressionism Count= 12
+Pop Art Count= 53
+Realism Count= 68
+152
+
+C=0.1,random_state=1
+Cubism Count= 34
+Impressionism Count= 42
+Pop Art Count= 47
+Realism Count= 18
+141
+
+----------------------------------------------------------------------------------------------------------
